@@ -843,6 +843,15 @@ return {
 			text = '₴',
 		},
 	},
+	uyu = {
+		code = 'UYU',
+		name = 'Uruguayan peso',
+		symbol = {
+			hasSpace = false,
+			isAfter = false,
+			text = '$',
+		},
+	},
 	usd = {
 		code = 'USD',
 		name = 'United States Dollar',
